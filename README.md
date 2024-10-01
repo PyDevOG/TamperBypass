@@ -16,6 +16,13 @@ Python 3.x: Ensure Python is installed.
 Windows: This script is designed for Windows systems only.
 Administrator Privileges: The script must be run with administrator privileges to make changes to system settings.
 
+# How to use:
+1.) Run script as admin. 
+2.) You will be sent to safe mode.
+3.) Run Script again. 
+4.) After script completes you will be sent back to normal mode.
+5.)All done. :)
+
 
 # Behavior:
 
